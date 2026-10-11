@@ -1,0 +1,10 @@
+# Personal data that changes every day
+portfolio.json
+history.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Old version kept as a backup
+robot_backup_blocks.py
